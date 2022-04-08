@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# ¡Hola visitante!
 
-You can use the [editor on GitHub](https://github.com/sergioramirezrubio/sergioramirezrubio.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Soy Sergio Ramírez, desarrollador de Unity.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Trabajo en [Kabel](https://www.kabel.es) como consultor de Realidad Mixta y Marketing Digital.
 
-### Markdown
+Aquí podrás encontrar mis proyectos personales, que no están vinculados de ningún modo a la empresa en la que trabajo.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Últimos proyectos
+### La Invitación
+La Invitación es un minijuego en AR para Android e iOS, creado con el motor [Unity](https://unity.com).
+  - Visita el [Repositorio público](https://github.com/sergioramirezrubio/TheInvitation) en GitHub.
+  - Descarga para Android en la [Google Play Store](https://play.google.com/store/apps/details?id=com.SergioRamrez.TheWeddingInvitation).
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Podcast
+¿Te gusta el cine y los videojuegos?
 
-- Bulleted
-- List
+**Muchos hobbies, poco tiempo** es mi podcast personal, el que charlo junto a invitados de la actualidad del videojuego y de las películas y series que hemos visto durante la semana.
 
-1. Numbered
-2. List
+Disponible en las principales plataformas:
+- [Spotify](https://open.spotify.com/show/4TNohLUJWiv5kkjn8yiOl5?si=2517ada84ca74510)
+- [Apple Podcast](https://podcasts.apple.com/us/podcast/muchos-hobbies-poco-tiempo/id1549035672?uo=4)
+- [Google Podcast](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy80N2Y0NzZhYy9wb2RjYXN0L3Jzcw==)
+- [Pocket Cast](https://pca.st/xe5jep21)
+- [RadioPublic](https://radiopublic.com/muchos-hobbies-poco-tiempo-GMpv5j)
 
-**Bold** and _Italic_ and `Code` text
+## Contacto
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sergioramirezrubio/sergioramirezrubio.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+¿Te apetece charlar? No dudes en contactarme en [Telegram](https://t.me/ramirezrubio), [LinkedIn](https://www.linkedin.com/in/sergioramirezrubio/) o [Twitter](https://twitter.com/ramirezrubio_).
